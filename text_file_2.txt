@@ -1,2 +1,6 @@
 print("Hello World Test 2");
+<<<<<<< HEAD
 print("Test");
+=======
+//test
+>>>>>>> test_branch_2
